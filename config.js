@@ -7,11 +7,11 @@ const CONFIG = {
     desc: 'Tuy anh không hoàn hảo, nhưng anh sẽ cố gắng hết mức để hoàn hảo(ít nhất là trong mắt e!!! maybe tại cũng khó OCD đồ...)  :))',
     btnYes: 'Ok nha:))',
     btnNo: 'Không, chờ tiếp đi:vv',
-    question:'Điều My muốn ở anh trong thời gian tới ?(Bắt buộc nhập á)',
+    question: 'Điều My muốn ở anh trong thời gian tới ?(Bắt buộc nhập á)',
     btnReply: 'Gởi góp ý :v',
     reply: 'Anh lãng mạn hơn xíu được hog, chạy xe bớt chạy lạc lại, chạy xe chở e thì cẩn thận vào, học thuộc đường Châu Đốc đi. Rủ đi chơi nhớ coi ngày.',
     mess: 'Anh biết uh😒. Anh xin lỗi em nhiều nhiều 😘💕, anh sẽ cố gắng hơn hixx. Mà kêu là anh đc hôm kêu "pà" quài lun á.',
     messDesc: 'Khi nào a về quê anh báo trước 2 mình lại đi chơi nha. A hứa á!!',
     btnAccept: 'Oki lun <3',
-    messLink: 'https://iumy.vercel.app/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://iumy.vercel.app/',
 }
