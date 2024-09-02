@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Anh biết uh😒. Anh xin lỗi em nhiều nhiều 😘💕, anh sẽ cố gắng hơn hixx. Mà kêu là anh đc hôm kêu "pà" quài lun á.',
     messDesc: 'Khi nào a về quê anh báo trước 2 mình lại đi chơi nha. A hứa á!!',
     btnAccept: 'Oki lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://iumy.vercel.app/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
