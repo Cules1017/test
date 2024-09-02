@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Hi My!',
+    introDesc: `Thời gian trôi qua, anh đã luôn giữ trong tim hình ảnh của em, và dù không gặp lại em suốt 5 năm, tình cảm đó vẫn luôn nguyên vẹn. Ngày hôm qua, khi gặp lại em, anh nhận ra rằng những cảm xúc anh dành cho em chưa bao giờ thay đổi, mà ngày càng sâu đậm hơn. Anh đã từng có ý định nói yêu em trước đó nhưng anh muốn xác nhận một lần nữa cảm xúc của anh nên anh mới chờ đến ngày hôm nay. Anh đã chờ đợi rất lâu để có thể nói với em điều này, để có thể xác nhận rằng anh thực sự yêu em.
+    Anh cũng xin lỗi vì buổi hẹn hò đầu tiên anh đã không chuẩn bị tốt hixx. Nhưng anh hứa trong những lần tiếp theo sẽ vui hơn.`,
+    btnIntro: 'ok tiếp :vv',
+    title: 'My Làm Người yêu Anh Nha!!!',
+    desc: 'Tuy anh không hoàn hảo, nhưng anh sẽ cố gắng hết mức để hoàn hảo(ít nhất là trong mắt e!!! maybe tại cũng khó OCD đồ...)  :))',
+    btnYes: 'Ok nha:))',
+    btnNo: 'Không, chờ tiếp đi:vv',
+    question:'Điều My muốn ở anh trong thời gian tới ?(Bắt buộc nhập á)',
+    btnReply: 'Gởi góp ý :v',
+    reply: 'Anh lãng mạn hơn xíu được hog, chạy xe bớt chạy lạc lại, chạy xe chở e thì cẩn thận vào, học thuộc đường Châu Đốc đi. Rủ đi chơi nhớ coi ngày.',
+    mess: 'Anh biết uh😒. Anh xin lỗi em nhiều nhiều 😘💕, anh sẽ cố gắng hơn hixx. Mà kêu là anh đc hôm kêu "pà" quài lun á.',
+    messDesc: 'Khi nào a về quê anh báo trước 2 mình lại đi chơi nha. A hứa á!!',
+    btnAccept: 'Oki lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
